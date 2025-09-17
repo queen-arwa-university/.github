@@ -1,7 +1,7 @@
 <!-- Queen Arwa University GitHub Profile -->
 
 <p align="center">
-  <img src="https://qau.edu.ye/images/logo.png" alt="Queen Arwa University Logo" width="140"/>
+  <img src="[https://qau.edu.ye/images/logo.png](https://qau.edu.ye/images/ico/android-icon-192x192.png)" alt="Queen Arwa University Logo" width="140"/>
 </p>
 
 <h1 align="center">🎓 Queen Arwa University – جامعة الملكة أروى</h1>
